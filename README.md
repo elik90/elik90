@@ -8,7 +8,6 @@ Googling anything that could be useful in trivia.. remembering it for a trivia i
 More and more ML model use cases and modifications.<br>
 Statistical inference - How do we properly address bias and intuition?<br>
 Started picking up guitar again.. testing out my capstone to see if I can learn interesting chords from it.<br>
-More but I should really try to find a good balance.
 
 - 💞️ I’m looking to collaborate on ...<br>
 Making complicated things more accessible!
