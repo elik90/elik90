@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @elik90<br>
-elliot chuh
+Elliot Chuh
 
 - 👀 I’m interested in ...<br>
-Googling anything that could be useful in trivia.. remembering it for a trivia is another thing entirely.
+Googling anything that could be useful in trivia.
 
 - 🌱 I’m currently learning ... <br>
-More and more ML model use cases and modifications.<br>
+More SQL query types on codewars <br>
+Python algorithms <br>
+PySpark <br>
+More ML model use cases and modifications.<br>
 Statistical inference - How do we properly address bias and intuition?<br>
 Started picking up guitar again.. testing out my capstone to see if I can learn interesting chords from it.<br>
 
