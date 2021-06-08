@@ -2,7 +2,7 @@
 Elliot Chuh
 
 - 👀 I’m interested in ...<br>
-Googling anything that could be useful in trivia.
+Audio proecessing, MIR, learning about data oceans, lakes, lakehouses, rivers, creeks, wells, seas, and all their inhabitants.
 
 - 🌱 I’m currently learning ... <br>
 More SQL query types on codewars <br>
