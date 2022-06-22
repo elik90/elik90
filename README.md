@@ -2,13 +2,12 @@
 Elliot Chuh
 
 - 👀 I’m interested in ...<br>
-Audio proecessing, MIR, learning about data oceans, lakes, lakehouses, rivers, creeks, wells, seas, and all their inhabitants.
+Audio proecessing, MIR, data lakes, oceans, lakehouses, rivers, creeks, wells, seas, and all their inhabitants.
 
 - 🌱 I’m currently learning ... <br>
-More SQL query types on codewars <br>
-Python algorithms <br>
-PySpark <br>
-More ML model use cases and modifications.<br>
+Data Pipelining <br>
+Python design patterns <br>
+Infrastructure management for AWS<br>
 Statistical inference - How do we properly address bias and intuition?<br>
 Started picking up guitar again.. testing out my capstone to see if I can learn interesting chords from it.<br>
 
