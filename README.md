@@ -8,8 +8,6 @@ Audio proecessing, MIR, data lakes, oceans, lakehouses, rivers, creeks, wells, s
 Data Pipelining <br>
 Python design patterns <br>
 Infrastructure management for AWS<br>
-Statistical inference - How do we properly address bias and intuition?<br>
-Started picking up guitar again.. testing out my capstone to see if I can learn interesting chords from it.<br>
 
 - 💞️ I’m looking to collaborate on ...<br>
 Making complicated things more accessible!
